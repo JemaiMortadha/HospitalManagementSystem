@@ -2,8 +2,6 @@
 A console app that allows a hospital to enter and store data ( Patients, Doctors, Staff, Appointments, Medical Records ) in a CSV files , and in a variables  to be always accessible everytime the app runs.
 
 
-
-```
 ## Features
 
 - Add new patients
@@ -23,8 +21,8 @@ A console app that allows a hospital to enter and store data ( Patients, Doctors
 ### Installation
 
 1. Clone the repository:
-   ```
-   git clone [https://github.com/JemaiMortadha/medical-records-management.git](https://github.com/JemaiMortadha/HospitalManagementSystem)
+   ```sh
+   git clone https://github.com/JemaiMortadha/HospitalManagementSystem.git
    cd HospitalManagementSystem
    ```
 
@@ -35,12 +33,12 @@ A console app that allows a hospital to enter and store data ( Patients, Doctors
 ### Running the Application
 
 1. Compile the application:
-   ```
+   ```sh
    javac Main.java
    ```
 
 2. Run the application:
-   ```
+   ```sh
    java Main
    ```
 
@@ -92,4 +90,3 @@ Select `5` to create a new medical dossier. Enter the patient's details, diagnos
 ## Contact
 
 For any inquiries or feedback, please contact [jemaimortadha@gmail.com](mailto:jemaimortadha@gmail.com).
-```
